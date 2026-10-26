@@ -1,0 +1,13 @@
+name = "Server Eye"
+filename = "server_eye-1.5-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/91fQPe5S/versions/FFLvnwsX/server_eye-1.5-forge.jar"
+hash-format = "sha512"
+hash = "5a888c36e301dfee6dd475965c0f4999267aabf1731e5510c25a149e7e98fd6b1e934cc43b02753dcdeba0115d751c85ba103ba0e97c51cc44af5e0b18864678"
+
+[update]
+[update.modrinth]
+mod-id = "91fQPe5S"
+version = "FFLvnwsX"
