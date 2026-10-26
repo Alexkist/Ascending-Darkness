@@ -17,6 +17,11 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "mods/aether.pw.toml"
+hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
+metafile = true
+
+[[files]]
 file = "mods/born-in-configuration.pw.toml"
 hash = "00947ee2b32fe00fbb3ad561c9695b016d914cdee62354d183760fb738545a85"
 metafile = true
@@ -24,6 +29,11 @@ metafile = true
 [[files]]
 file = "mods/borninchaos.pw.toml"
 hash = "f908d8ee3c83f1c9ec7a5f7170b750fa2834203beaf5226bf4116458e14b9f44"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
@@ -42,6 +52,21 @@ hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
 metafile = true
 
 [[files]]
+file = "mods/l_enders-cataclysm.pw.toml"
+hash = "dfdd246954f9bcfbff66668558b17ba5b3e75a12ba6031c441750a472670fbd8"
+metafile = true
+
+[[files]]
+file = "mods/lexiconfig.pw.toml"
+hash = "e16ad7ecc0ea190bad560665c7556f8e1a9e7c3132e26872e4841cf7fe2eea5d"
+metafile = true
+
+[[files]]
+file = "mods/lionfish-api.pw.toml"
+hash = "f3b6b7cd660a91a34a4e18010c9eaacaeb7ff306cadfee14431fa25a15b041ec"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "8cad1023bbc6e5c13961de6248a88b91538f3ad315dfdbb40c969e25606d98eb"
 metafile = true
@@ -57,6 +82,11 @@ hash = "0bd687534c62df54c869b3fb776a4d18eb68015f8bce7672674c19cb805766fa"
 metafile = true
 
 [[files]]
+file = "mods/simple-radio.pw.toml"
+hash = "96f3f2fd9fab18ddfaf27d1ccd44e750d4c3e7f3d7b61980968aefd7d085c385"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "bf501c145cc0470051ef563fec45fbd8727b188bff48a29aec882fa722ef41cf"
 metafile = true
@@ -64,4 +94,19 @@ metafile = true
 [[files]]
 file = "mods/the-anomaly-rephased.pw.toml"
 hash = "87b00733d931eb1cc510d18c23ba4ee594dd623b6d32bac4afe11047fc8c448d"
+metafile = true
+
+[[files]]
+file = "mods/the-graveyard-forge.pw.toml"
+hash = "d7bfec248e484b45a3fdd4b36de66fcd7a61c952d44a35c7c8408c6e198fb928"
+metafile = true
+
+[[files]]
+file = "mods/the-knocker.pw.toml"
+hash = "3da2bd72b76eca0a2312a819ca26b415aac25371ef7b71b102bd7a23179154cd"
+metafile = true
+
+[[files]]
+file = "mods/villagerstradingplus.pw.toml"
+hash = "cbe274b23a70d1ef1bab8d273830dbee440bbc9c15a598275766a734b64e58ac"
 metafile = true

@@ -188,6 +188,7 @@ The links below also include Curseforge links, as some Mods are only availible o
 - [Sophisticated Core](https://modrinth.com/mod/sophisticated-core)
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib)
 - [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib)
+- [VillagersTradingPlus](https://modrinth.com/mod/villagerstradingplus)
 - [GeckoLib](https://modrinth.com/mod/geckolib) **(Client-sided)**
 
 </details>
@@ -196,12 +197,13 @@ The links below also include Curseforge links, as some Mods are only availible o
 <summary>Mods</summary>
 
 ### Horror Mods
-- [Apollyon](https://www.curseforge.com/minecraft/mc-mods/apollyon)
-- [The End of Herobrine](https://modrinth.com/mod/endofherobrine)
-- [The Knocker](https://modrinth.com/mod/the-knocker)
-- [The Anomaly Rephased](https://modrinth.com/mod/the-anomaly-rephased)
-- [Born in Chaos](https://modrinth.com/mod/borninchaos)
-- [The Graveyard](https://modrinth.com/mod/the-graveyard-forge)
+* [Apollyon](https://www.curseforge.com/minecraft/mc-mods/apollyon)
+  * Apollyon has been disabled temporarily, you must add it manually.
+* [The End of Herobrine](https://modrinth.com/mod/endofherobrine)
+* [The Knocker](https://modrinth.com/mod/the-knocker)
+* [The Anomaly Rephased](https://modrinth.com/mod/the-anomaly-rephased)
+* [Born in Chaos](https://modrinth.com/mod/borninchaos)
+* [The Graveyard](https://modrinth.com/mod/the-graveyard-forge)
 
 ### Dimensions
 - [The Aether](https://modrinth.com/mod/aether)
