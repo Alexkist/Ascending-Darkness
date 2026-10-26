@@ -5,7 +5,7 @@ file = "config/anomaly_server.toml"
 hash = "cbda46dff53e15997c67ea5de4487a4fb3bf204b4f96a8dd93f8fbc1ba5ac362"
 
 [[files]]
-file = "config/endofherobrine.toml"
+file = "config/endofherobrine-common.toml"
 hash = "51f41825f97320eb753d23c243432c0d48e7eaf43b12b4dbd90c018294cc71cf"
 
 [[files]]
@@ -14,7 +14,7 @@ hash = "1278777c867e50ab4ba67dc1b61f60c0c13f21a04af1a85e2e2846e4352c5001"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+hash = "a93a5a6f06c37bd344ed734ad01d037a70945b1699c7fab0e1b89940b40e07f2"
 
 [[files]]
 file = "mods/adorabuild-structures.pw.toml"
@@ -28,7 +28,7 @@ metafile = true
 
 [[files]]
 file = "mods/ai-improvements.pw.toml"
-hash = "a2c8b09b27514ebbf069afb6b28e5adb643c333dda0668b118e54bd949910ec5"
+hash = "a624c17be58a19cca8a8e3e61b8060e43a3c77b44efdaafd3a1826642aafa3da"
 metafile = true
 
 [[files]]
@@ -43,7 +43,7 @@ metafile = true
 
 [[files]]
 file = "mods/baguettelib.pw.toml"
-hash = "f9129737a2d0e9c1ae7138ea7dda83847f884173603c855be16d1b10727db137"
+hash = "769bc03aef7bab6df224d019e861b2a3b9cc2e894f9bd4a0264d3b7b7c49a68f"
 metafile = true
 
 [[files]]
@@ -123,7 +123,7 @@ metafile = true
 
 [[files]]
 file = "mods/gravestone-x-curios-api-compat.pw.toml"
-hash = "105113f1572a0ffff172d011f3528c0efc00a448354490759058022c164f5747"
+hash = "741a7c1862d33c7a85b477a70f1424bf5a7499ca5693218ad0d92890c039a47e"
 metafile = true
 
 [[files]]
@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "85f965de3efa0ad66252b3540afff30d5a3cf8c9cb86692987830b8ae08489c5"
+hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/radium.pw.toml"
-hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+hash = "ae4d739bbdb025651a884093de72addac0865525b39e603fb575031a59987763"
 metafile = true
 
 [[files]]
