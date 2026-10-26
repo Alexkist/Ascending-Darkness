@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/anomaly_server.toml"
+hash = "cbda46dff53e15997c67ea5de4487a4fb3bf204b4f96a8dd93f8fbc1ba5ac362"
+
+[[files]]
+file = "config/endofherobrine.toml"
+hash = "51f41825f97320eb753d23c243432c0d48e7eaf43b12b4dbd90c018294cc71cf"
+
+[[files]]
+file = "config/explorerscompass-common.toml"
+hash = "1278777c867e50ab4ba67dc1b61f60c0c13f21a04af1a85e2e2846e4352c5001"
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "mods/born-in-configuration.pw.toml"
 hash = "00947ee2b32fe00fbb3ad561c9695b016d914cdee62354d183760fb738545a85"
 metafile = true
@@ -16,11 +32,36 @@ hash = "6742cf02153d0b44d47430fdcc8a8cc03fe8e74b870548a8996ecda4a020139c"
 metafile = true
 
 [[files]]
+file = "mods/explorers-compass.pw.toml"
+hash = "8d11358dfd1f3591ee0ce8728d6a3234e1edef5db39c52fe68264ecf7684968d"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "7ffae05c3b8101588b231db8116c34b36a77a0c6e6d7e6af867ae1c5b47e4d10"
 metafile = true
 
 [[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "8cad1023bbc6e5c13961de6248a88b91538f3ad315dfdbb40c969e25606d98eb"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "85f965de3efa0ad66252b3540afff30d5a3cf8c9cb86692987830b8ae08489c5"
+metafile = true
+
+[[files]]
 file = "mods/server_eye.pw.toml"
 hash = "0bd687534c62df54c869b3fb776a4d18eb68015f8bce7672674c19cb805766fa"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "bf501c145cc0470051ef563fec45fbd8727b188bff48a29aec882fa722ef41cf"
+metafile = true
+
+[[files]]
+file = "mods/the-anomaly-rephased.pw.toml"
+hash = "87b00733d931eb1cc510d18c23ba4ee594dd623b6d32bac4afe11047fc8c448d"
 metafile = true

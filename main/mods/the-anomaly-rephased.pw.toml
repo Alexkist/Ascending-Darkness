@@ -1,0 +1,13 @@
+name = "The Anomaly Rephased"
+filename = "anomaly_rephased-2.0.0b32-forge-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rIp1shBK/versions/3eCe1lTt/anomaly_rephased-2.0.0b32-forge-1.20.1.jar"
+hash-format = "sha512"
+hash = "361aa9e58ed0496039d10887d8bb8e9b129cff3a88569638d108d24ed1f54f5e7fc602892f89110c15d1b124c91378f8726539195301d51ee3f3839c82bd7e6b"
+
+[update]
+[update.modrinth]
+mod-id = "rIp1shBK"
+version = "3eCe1lTt"
