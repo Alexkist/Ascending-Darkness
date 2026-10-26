@@ -1,0 +1,13 @@
+name = "Born In Configuration"
+filename = "borninconfig-FORGE.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8rGW0cNk/versions/O5UhPCkn/borninconfig-FORGE.jar"
+hash-format = "sha512"
+hash = "5a1a25ce1753b1dad94343bf16d644a16123f401d736421065815cac7e6f142c82ca82dabe68a6f495bf87e5c4f5b664c5b1b8d89495c44c0a97b8522c887cb1"
+
+[update]
+[update.modrinth]
+mod-id = "8rGW0cNk"
+version = "O5UhPCkn"

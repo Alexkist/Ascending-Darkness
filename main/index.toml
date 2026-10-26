@@ -1,8 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/born-in-configuration.pw.toml"
+hash = "00947ee2b32fe00fbb3ad561c9695b016d914cdee62354d183760fb738545a85"
+metafile = true
+
+[[files]]
 file = "mods/borninchaos.pw.toml"
 hash = "f908d8ee3c83f1c9ec7a5f7170b750fa2834203beaf5226bf4116458e14b9f44"
+metafile = true
+
+[[files]]
+file = "mods/endofherobrine.pw.toml"
+hash = "6742cf02153d0b44d47430fdcc8a8cc03fe8e74b870548a8996ecda4a020139c"
 metafile = true
 
 [[files]]
