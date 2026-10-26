@@ -5,7 +5,7 @@
 Ascending Darkness turns your world into a Nightmare. Will you be able to fight against the horrors that now plague your world? Only time will tell...
 
 # Focus
-**The core focus of Ascending Darkness is to add horrifying entities to your world**, the Modpack also includes Boss Fights and new Equipment to help you fight against the horrors that now plague it. The Modpack also includes Quality of Life improvements, New Structures, Decorations and new ways to protect your Base.
+**The core focus of Ascending Darkness is to add horrifying entities to your world, as well as new horrifying structers to explore.** The Modpack also includes Boss Fights and new Equipment to help you fight against the horrors that now plague it, as well as Quality of Life improvements, Decorations and new ways to protect your Base.
 
 # Recommendations
 We recommend you use [Insanity Shaders](https://modrinth.com/shader/insanity-shader) with [Oculus](https://modrinth.com/mod/oculus) or [True Darkness Biomes](https://modrinth.com/mod/true-darkness-biomes) for a better experience. **The True Darkness fork linked here includes an option for certain Biomes where True Darkness does not apply.**
@@ -14,7 +14,9 @@ We recommend you use [Insanity Shaders](https://modrinth.com/shader/insanity-sha
 [YUNG's API](https://modrinth.com/mod/yungs-api) is included within the Modpack by default. **You will however need [Cataclysm x YUNG's Better Nether Fortresses Compat](https://www.curseforge.com/minecraft/mc-mods/cataclysm-x-yungs) if you use [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses) to allow Ignited Berserkers to spawn after defeating Ignis.**
 
 # Multiplayer
-The Modpack will also work in a Multiplayer environment. However, Simple Voicechat's Group feature is disabled by default. Please use [Simple Radio](https://modrinth.com/mod/simple-radio) for communcation for the best experience. **You can switch Groups back on if you desire, but it is not recommended.**
+The Modpack will also work in a Multiplayer environment. However, **Simple Voicechat's Group feature is disabled by default.** Please use [Simple Radio](https://modrinth.com/mod/simple-radio) for communcation for the best experience. **It is recommended to keep Groups disabled, but you can enable Groups again if you wish.**
+
+**The Server will also store conversations from Voicechat, which can then be used by entities to mimic a Player's voice.** For more information on this, check out the Modrinth Page of [Mimicked](https://modrinth.com/mod/mimicked).
 
 # Gameplay
 
@@ -189,6 +191,8 @@ The links below also include Curseforge links, as some Mods are only availible o
 - [SuperMartijn642's Core Lib](https://modrinth.com/mod/supermartijn642s-core-lib)
 - [SuperMartijn642's Config Lib](https://modrinth.com/mod/supermartijn642s-config-lib)
 - [VillagersTradingPlus](https://modrinth.com/mod/villagerstradingplus)
+- [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
+- [MezzConfig](https://modrinth.com/mod/mezzconfig)
 - [GeckoLib](https://modrinth.com/mod/geckolib) **(Client-sided)**
 
 </details>
@@ -204,6 +208,11 @@ The links below also include Curseforge links, as some Mods are only availible o
 * [The Anomaly Rephased](https://modrinth.com/mod/the-anomaly-rephased)
 * [Born in Chaos](https://modrinth.com/mod/borninchaos)
 * [The Graveyard](https://modrinth.com/mod/the-graveyard-forge)
+* [Mimicked](https://modrinth.com/mod/mimicked)
+
+### Furniture
+- [Horror Element Mod](https://modrinth.com/mod/horror-element-mod)
+- [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
 
 ### Dimensions
 - [The Aether](https://modrinth.com/mod/aether)
@@ -236,11 +245,21 @@ The links below also include Curseforge links, as some Mods are only availible o
 </details>
 
 <details>
-<summary>Included Extras</summary>
+<summary>Included extras</summary>
 
+- [Memory Leak Fix](https://modrinth.com/mod/memoryleakfix)
 - [FerriteCore](https://modrinth.com/mod/ferrite-core)
 - [AppleSkin](https://modrinth.com/mod/appleskin)
 - [Just Enough Items](https://modrinth.com/mod/jei)
 - [JourneyMap](https://modrinth.com/mod/journeymap)
+
+</details>
+
+<details>
+<summary>Server-sided extras</summary>
+
+- [Radium](https://modrinth.com/mod/radium)
+- [Noisium](https://modrinth.com/mod/noisium)
+- [AI Improvements](https://modrinth.com/mod/ai-improvements)
 
 </details>

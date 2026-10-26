@@ -1,0 +1,13 @@
+name = "Mimicked"
+filename = "mimicked-2.0.3-1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KR0dp38I/versions/WDs5RpUc/mimicked-2.0.3-1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "ea59a98d5d4f50b2c337b6d7c565dd9f8ef1e762130b2a436440bcd8cd4168f7b4a7244e83eb2978cfcb3ac219a03bef30322669b6457493cde0f5160b101924"
+
+[update]
+[update.modrinth]
+mod-id = "KR0dp38I"
+version = "WDs5RpUc"
