@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.0](https://github.com/Alexkist/Ascending-Darkness/compare/v1.0.1...v1.1.0) (2026-10-27)
+
+
+### Modpack Changes
+
+* Add Nyf's Spiders ([42f0ed8](https://github.com/Alexkist/Ascending-Darkness/commit/42f0ed87dd19f069181d0348e3c12f11cda93ff7))
+
 ## [1.0.1](https://github.com/Alexkist/Ascending-Darkness/compare/v1.0.0...v1.0.1) (2026-10-27)
 
 
