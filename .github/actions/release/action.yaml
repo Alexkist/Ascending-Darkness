@@ -41,9 +41,6 @@ runs:
     using: "composite"
     steps:
 
-      - name: Check Out Git Repository
-        uses: actions/checkout@v3
-
       - name: Download the pack files
         uses: robinraju/release-downloader@v1.8
         id: download-files
@@ -125,4 +122,3 @@ runs:
         run: |
           echo "::notice ::☀ Modpack ${{ inputs.modpack }} has been uploaded to Curseforge with ${{ inputs.CURSEFORGE_ID }}"
         shell: bash
-
