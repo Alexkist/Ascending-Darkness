@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/the-graveyard-forge.pw.toml"
-hash = "d7bfec248e484b45a3fdd4b36de66fcd7a61c952d44a35c7c8408c6e198fb928"
+hash = "b99e208155449b24be66d9c233c2f85988d744cfd274a9c5713be3d47882af7e"
 metafile = true
 
 [[files]]
@@ -288,7 +288,7 @@ metafile = true
 
 [[files]]
 file = "mods/villagerstradingplus.pw.toml"
-hash = "cbe274b23a70d1ef1bab8d273830dbee440bbc9c15a598275766a734b64e58ac"
+hash = "fb50e9b1f925453bbbaed3fb99eaba22fcd490822da9c9a142e9aa3f1a6c1a67"
 metafile = true
 
 [[files]]
