@@ -197,6 +197,11 @@ hash = "85f965de3efa0ad66252b3540afff30d5a3cf8c9cb86692987830b8ae08489c5"
 metafile = true
 
 [[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "cf5268ed8ccfbb42839632548def74826e9fc284b2c6c5e9306208d870dc295d"
+metafile = true
+
+[[files]]
 file = "mods/pandalib.pw.toml"
 hash = "4684da1c9486b17aa9029f441b8b573a738bd256f413c30279950d2c9e8fe34f"
 metafile = true

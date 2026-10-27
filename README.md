@@ -209,6 +209,7 @@ The links below also include Curseforge links, as some Mods are only availible o
 * [The Anomaly Rephased](https://modrinth.com/mod/the-anomaly-rephased)
 * [Born in Chaos](https://modrinth.com/mod/borninchaos)
 * [The Graveyard](https://modrinth.com/mod/the-graveyard-forge)
+* [Nyf's Spiders](https://modrinth.com/mod/nyfs-spiders)
 * [Mimicked](https://modrinth.com/mod/mimicked)
 
 ### Decorations
