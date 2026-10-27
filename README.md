@@ -193,6 +193,7 @@ The links below also include Curseforge links, as some Mods are only availible o
 - [VillagersTradingPlus](https://modrinth.com/mod/villagerstradingplus)
 - [Framework](https://www.curseforge.com/minecraft/mc-mods/framework)
 - [MezzConfig](https://modrinth.com/mod/mezzconfig)
+- [Caelus](https://modrinth.com/mod/caelus)
 - [GeckoLib](https://modrinth.com/mod/geckolib) **(Client-sided)**
 
 </details>
@@ -210,9 +211,10 @@ The links below also include Curseforge links, as some Mods are only availible o
 * [The Graveyard](https://modrinth.com/mod/the-graveyard-forge)
 * [Mimicked](https://modrinth.com/mod/mimicked)
 
-### Furniture
+### Decorations
 - [Horror Element Mod](https://modrinth.com/mod/horror-element-mod)
 - [MrCrayfish's Furniture Mod: Refurbished](https://www.curseforge.com/minecraft/mc-mods/refurbished-furniture)
+- [Twigs](https://modrinth.com/mod/twigs)
 
 ### Dimensions
 - [The Aether](https://modrinth.com/mod/aether)
@@ -230,6 +232,7 @@ The links below also include Curseforge links, as some Mods are only availible o
 - [Born In Configuration](https://modrinth.com/mod/born-in-configuration)
 - [Explorer's Compass](https://modrinth.com/mod/explorers-compass)
 - [Nature's Compass](https://modrinth.com/mod/natures-compass)
+- [Elytra Slot](https://modrinth.com/mod/elytra-slot)
 
 ### Misc
 - [Biomes O' Plenty](https://modrinth.com/mod/biomes-o-plenty)
