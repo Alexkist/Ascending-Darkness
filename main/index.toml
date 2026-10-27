@@ -183,7 +183,7 @@ metafile = true
 
 [[files]]
 file = "mods/noisium.pw.toml"
-hash = "c18dd089c44103b56f8edcbd41a071e41a1fcd46094b2c93df5cc5f07853f18b"
+hash = "85f965de3efa0ad66252b3540afff30d5a3cf8c9cb86692987830b8ae08489c5"
 metafile = true
 
 [[files]]
@@ -218,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-radio.pw.toml"
-hash = "96f3f2fd9fab18ddfaf27d1ccd44e750d4c3e7f3d7b61980968aefd7d085c385"
+hash = "97fdc73e608351c5ce416d0894457633a275f9a642c4a2b662f09257a052200d"
 metafile = true
 
 [[files]]
@@ -228,12 +228,12 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "4e5823f745c4c0c5498eb34ad1d8ef4077cfb50b760664945ca04b3a02b28049"
+hash = "6800ce0c26041174f4ed017bbedcfc79ecd2d59eafd75f117a424f4c5ed8e2b0"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "500bde350b0e148cbaa79a7397795417df374b67d45d1d3839600e8efa015554"
+hash = "f6266b08d299fe964f8dbbe835e12a591be52e51ecf6afe8915b6eca21d670c6"
 metafile = true
 
 [[files]]

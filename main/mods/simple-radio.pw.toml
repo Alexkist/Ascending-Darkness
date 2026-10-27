@@ -1,13 +1,13 @@
 name = "Simple Radio"
-filename = "simpleradio-forge-1.20.1-4.5.7.9.jar"
+filename = "simpleradio-forge-1.20.1-4.6.7.10.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/etr8iUWv/simpleradio-forge-1.20.1-4.5.7.9.jar"
+url = "https://cdn.modrinth.com/data/S7b8mMXS/versions/W6fIbMUs/simpleradio-forge-1.20.1-4.6.7.10.jar"
 hash-format = "sha512"
-hash = "9b940161c02995c9c6827f78d3a7ac21d4b6d0084d72dbcb7318b16fc7db4e73c3a765f0267e41c728e08a67a6b9d53053c225d9b56fc375b44e69a602db0b99"
+hash = "1772f82e58385e6827571bd6a6ff431c3a1778782c6c61ca7be89ccde5e9b4081516accc4d0d622ccbe7b4cd1b822281508ed3b4ad4be9e058313c7489f0eb11"
 
 [update]
 [update.modrinth]
 mod-id = "S7b8mMXS"
-version = "etr8iUWv"
+version = "W6fIbMUs"
