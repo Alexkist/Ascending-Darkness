@@ -61,14 +61,25 @@ runs:
       - name: Set publish version-type
         id: release-type
         run: |
-          if [ "${{ steps.latest-release.outputs.prerelease }}" = "true" ]; then
-            echo "Setting release-type to beta"
-            echo "release-type=beta" >> $GITHUB_OUTPUT
-          else
-            echo "Setting release-type to release"
-            echo "release-type=release" >> $GITHUB_OUTPUT
+          TAG="${{ inputs.release-tag }}"
+          PREV=$(git describe --tags --abbrev=0 "$TAG^" 2>/dev/null || true)
+          RANGE=$([ -n "$PREV" ] && echo "$PREV..$TAG" || echo "$TAG")
+
+          TYPE=$(git log --format=%B "$RANGE" \
+            | grep -ioP '^Release-Channel:\s*\K(alpha|beta|release)(?=\s*$)' \
+            | head -n 1 | tr '[:upper:]' '[:lower:]')
+          TYPE=${TYPE:-release}
+
+          echo "::notice ::⚙ $TAG (commits ${PREV:-start}..$TAG) will be published as $TYPE"
+          echo "release-type=$TYPE" >> $GITHUB_OUTPUT
+
+          # Mirror the channel on GitHub: alpha/beta get the pre-release badge
+          if [ "$TYPE" != "release" ]; then
+            gh release edit "$TAG" --prerelease
           fi
         shell: bash
+        env:
+          GH_TOKEN: ${{ github.token }}
 
 
       - name: Pipe latest release description to file
