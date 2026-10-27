@@ -13,7 +13,6 @@
     ],
     "packages": {
         "main": {
-            "package-name": "Ascending Darkness",
             "extra-files": [
                 {
                     "type": "toml",
