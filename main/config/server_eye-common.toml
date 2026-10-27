@@ -1,0 +1,12 @@
+
+[server_eye]
+	#Add modIds here to blacklist them. Players with these mods will be kicked.
+	blacklistedMods = ["fullbrightnesstoggle"]
+	#Add player names here to whitelist them. Whitelisted players will not be kicked, even if they have blacklisted mods.
+	whitelistedPlayers = []
+	#If enabled, Players with blacklisted mods will not be kicked, and it will only be logged to the Console.
+	logOnly = false
+	#How many seconds to wait for a player's mod list before kicking them. Set to 0 to disable this check.
+	#Range: 0 ~ 300
+	timeoutSeconds = 10
+
