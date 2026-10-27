@@ -277,6 +277,11 @@ hash = "3da2bd72b76eca0a2312a819ca26b415aac25371ef7b71b102bd7a23179154cd"
 metafile = true
 
 [[files]]
+file = "mods/twigs.pw.toml"
+hash = "08a5b69474ddf223809a4e624f123dd3886362011663989c1bbacd6b5167baf0"
+metafile = true
+
+[[files]]
 file = "mods/villagerstradingplus.pw.toml"
 hash = "cbe274b23a70d1ef1bab8d273830dbee440bbc9c15a598275766a734b64e58ac"
 metafile = true
