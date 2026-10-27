@@ -261,5 +261,13 @@ The links below also include Curseforge links, as some Mods are only availible o
 - [Radium](https://modrinth.com/mod/radium)
 - [Noisium](https://modrinth.com/mod/noisium)
 - [AI Improvements](https://modrinth.com/mod/ai-improvements)
+- [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+- [YUNG's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
+- [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+- [YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)
+- [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+- [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
 
 </details>
